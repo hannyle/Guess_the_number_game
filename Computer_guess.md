@@ -16,16 +16,27 @@ Both ceiling and log functions are present in the math module, though you can ea
 Your game should look something like this:
 
 What range is your number in?
+
 0, 200
+
 Is your number 100?
+
 h
+
 Is your number 150?
+
 h
+
 Is your number 175?
+
 l
+
 Is your number 163?
+
 y
+
 Woah, that was tricky!
+
 Play again? y/n
-This assignment should be submitted by the next Wednesday June 8th 9 A.M.
+
 
